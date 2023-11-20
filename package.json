@@ -11,7 +11,7 @@
     "auth": "nodemon auth/server",
     "place": "nodemon place/server",
     "booking": "nodemon booking/server",
-    "dev": "concurrently \"npm run auth\" \"npm run place\" \"npm run booking\" \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run auth\" \"npm run place\" \"npm run booking\" \"npm run server\""
   },
   "author": "Moein",
   "license": "ISC",
